@@ -1,6 +1,6 @@
 Name:		python-calver
 Version:	2022.6.26
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/c/calver/calver-%{version}.tar.gz
 Summary:	Setuptools extension for CalVer package versions
 URL:		https://pypi.org/project/calver/
